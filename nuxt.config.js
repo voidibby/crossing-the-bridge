@@ -1,4 +1,6 @@
 export default {
+	modules: ['@nuxt/content'],
+
 	head: {
 		title: "CROSSNGTHBRDG",
 		meta: [
@@ -17,3 +19,5 @@ export default {
 	components: true,
 	target: "static",
 };
+
+
