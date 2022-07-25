@@ -1,8 +1,8 @@
 ---
 title: The Checkpoint
 subtitle: A storytelling device
-artist: Katherine Romero M.
-format: exhibition
+artist: Katherine Romero M. (CO)
+format: exhibition-project
 main_image: "07-katherine-01.jpg"
 project_images:
 documentation_images:

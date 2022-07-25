@@ -2,7 +2,7 @@
 title: Spectral Surrounding - live radio frequency light array
 subtitle:
 artist: Daniel Fischer (AT)
-format: exhibition
+format: exhibition-project
 main_image: "03-daniel-01.jpg"
 project_images:
 documentation_images:

@@ -2,7 +2,7 @@
 title: Stones are Angels
 subtitle: 
 artist: Daphne Xanthopoulou (GR)
-format: performance
+format: performance-project
 main_image: "04-daphne-01.jpg"
 project_images:
 documentation_images:

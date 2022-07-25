@@ -2,7 +2,7 @@
 title: "PROMT: WAR STORIES"
 subtitle: 2022
 artist: Kristina Tica (RS)
-format: exhibition
+format: exhibition-project
 main_image: "10-kristina-01.jpg"
 project_images:
 documentation_images:

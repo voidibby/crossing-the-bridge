@@ -2,7 +2,7 @@
 title: Intangible Bubbles Calling for Aphrodite 
 subtitle:
 artist: Maria Dirneder (AT)
-format: outdoor-exhibition
+format: outdoor-project
 main_image: "14-mariadirneder-01.png"
 project_images:
 documentation_images:

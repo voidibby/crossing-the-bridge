@@ -2,7 +2,7 @@
 title: soft press
 subtitle: Ongoing I, 2022
 artist: Alejandro Quiñones Roa (CO)
-format: performance
+format: performance-project
 main_image: "01-alejandro-01.jpg"
 project_images:
     - "01-alejandro-02.jpg"

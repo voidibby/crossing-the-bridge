@@ -2,7 +2,7 @@
 title: Future Memories of Deep Water
 subtitle: Installation (2021–2022)
 artist: Indiara Di Benedetto (IT)
-format: exhibition
+format: exhibition-project
 main_image: "05-indiara-01.jpg"
 project_images:
 documentation_images:

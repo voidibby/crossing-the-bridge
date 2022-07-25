@@ -2,7 +2,7 @@
 title: Soup Kitchen
 subtitle: a recipe of one bright day
 artist: Maria Konstantinova (RU)
-format: outdoor-exhibition
+format: outdoor-project
 main_image: "15-mariakonstantinova-01.jpg"
 project_images:
 documentation_images:

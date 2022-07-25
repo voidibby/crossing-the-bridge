@@ -1,7 +1,8 @@
 ---
 title: Plántula
-artist: Linaá Pulido Barragán
-format: outdoor-exhibition
+subtitle:
+artist: Linaá Pulido Barragán (CO)
+format: outdoor-project
 main_image: "13-linaa-01.jpg"
 project_images:
 documentation_images:

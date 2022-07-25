@@ -2,7 +2,7 @@
 title: DANU
 subtitle: Transdisciplinary Performance
 artist: Various artists
-format: performance
+format: performance-project
 main_image: "22-smirna-01.jpg"
 project_images:
 documentation_images:

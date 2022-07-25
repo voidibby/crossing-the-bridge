@@ -1,8 +1,8 @@
 ---
 title: Externalization
 subtitle:
-artist: Jelena Mönch 
-format: exhibition
+artist: Jelena Mönch (DE)
+format: exhibition-project
 main_image: "06-jelena-01.png"
 project_images:
 documentation_images:

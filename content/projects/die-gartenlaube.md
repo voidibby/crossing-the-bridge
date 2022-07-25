@@ -2,7 +2,7 @@
 title: LEONARDO LASER LINZ
 subtitle: Die Gartenlaube Vol. III, Danube Songs 2
 artist: 
-format: extra
+format: extra-project
 main_image: "12-gartenlaube-01.png"
 project_images:
 documentation_images:

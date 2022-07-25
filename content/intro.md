@@ -8,8 +8,6 @@ documentation_images:
 documentation-video:
 ---
 
-# Crossing the bridge
-
 Just as neighboring nations can develop separate cultures—in part due to forces of nature that separate them such as rivers and mountains, art and science often present themselves as divided into two different cultures and languages. Paradoxically, the construction of bridges, as well as other vehicles intended to facilitate communication between different cultures, were projects originally assigned to artist-scientists. But just as bridges can be built, they can also be destroyed. And indeed, up to this day it seems that there are still too many bridges to be built, as well as others more fragile that need to be reinforced. 
 
 The linguistic divide between the arts and sciences began at the end of the Enlightenment era, at the end of the 19th century. It’s then when the term "science" began to be used in its narrowest sense, referring only to the "physical" or "natural" sciences. The Romantic movement of the time and its aesthetic perspective served as a counterpoint to utilitarianism and instrumental rationality through which the ideas of the Enlightenment gained theoretical legitimacy and influenced the modern industrial age. In fact, the paradigm of the arts and sciences divide has accompanied us until today, with the greatest danger of these disciplines undoubtedly lying in their lack of articulation. 

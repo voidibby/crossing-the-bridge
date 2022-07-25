@@ -2,7 +2,7 @@
 title: The Artwork as a Living System
 subtitle: Book presentation
 artist: Christa Sommerer & Laurent Mignonneau
-format: extra
+format: extra-project
 main_image: "17-sommerermignonneau-01.png"
 project_images:
 documentation_images:

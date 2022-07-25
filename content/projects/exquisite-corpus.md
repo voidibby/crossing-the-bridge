@@ -2,7 +2,7 @@
 title: Exquisite Corpus
 subtitle: 2022
 artist: Kevin Blackistone (US)
-format: 
+format: exhibition-project
 main_image: "09-kevin-01.jpg"
 project_images:
 documentation_images:

@@ -1,8 +1,8 @@
 ---
 title: He loved me/he loved me not
 subtitle: Interactive Installation (2022)
-artist: Pepe Reyes Caballero
-format: exhibition
+artist: Pepe Reyes Caballero (ES)
+format: exhibition-project
 main_image: "19-pepe-01.jpg"
 project_images:
 documentation_images:

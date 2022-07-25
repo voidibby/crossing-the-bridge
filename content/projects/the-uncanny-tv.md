@@ -2,7 +2,7 @@
 title: The Uncanny TV
 subtitle: Interactive installation (2022)
 artist: Barbara Jazbec (SI)
-format: exhibition
+format: exhibition-project
 main_image: "02-barbara-01.jpg"
 project_images:
 documentation_images:

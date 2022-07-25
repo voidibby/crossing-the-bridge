@@ -1,8 +1,8 @@
 ---
 title: Cluster
 subtitle: AudioVisual Performance
-artist: Vahid Qaderi & Razieh Kooshki (IR)
-format: performance
+artist: Vahid Qaderi (IR) & Razieh Kooshki (IR)
+format: performance-project
 main_image: "20-raziehvahid-02.jpg"
 project_images:
 documentation_images:

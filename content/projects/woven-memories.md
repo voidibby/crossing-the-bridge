@@ -1,8 +1,8 @@
 ---
 title: Woven Memories
 subtitle: Hairy Situation Vol.3
-artist: Kathrine Hardman
-format: performance
+artist: Kathrine Hardman (US)
+format: performance-project
 main_image: '08-kathrine-01.jpg'
 project_images:
 documentation_images:

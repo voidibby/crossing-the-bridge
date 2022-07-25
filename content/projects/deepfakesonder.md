@@ -2,7 +2,7 @@
 title: DeepFakeSonder 
 subtitle: Interactive installation (2022)
 artist: Sara Koniarek (AT)
-format: 
+format: exhibition-project
 main_image: "20-sara-01.jpg"
 project_images:
 documentation_images:

@@ -2,7 +2,7 @@
 title: Underwater Lilies
 subtitle: 
 artist: 
-format: extra
+format: extra-project
 main_image: "11-kunsthalle-01.jpg"
 project_images:
 documentation_images:

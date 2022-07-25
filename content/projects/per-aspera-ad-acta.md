@@ -2,7 +2,7 @@
 title: Per aspera ad acta
 subtitle: Ongoing I, 2022
 artist: Peter Schloss & Sebastian Sprenger
-format: exhibition
+format: exhibition-project
 main_image: "21-sebastian-01.jpg"
 project_images:
 documentation_images:

@@ -2,7 +2,7 @@
 title: FadingColours
 subtitle: 
 artist: Noor Stenfert Kroese (NL)
-format: exhibition
+format: exhibition-project
 main_image: "18-noor-01.jpg"
 project_images:
 documentation_images:

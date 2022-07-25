@@ -2,7 +2,7 @@
 title: PHOTOSYNTHETIC YOU
 subtitle: 
 artist: Vanessa V(ozzo) (IT)
-format: workshop
+format: workshop-project
 main_image: "23-vanessa-01.jpg"
 project_images:
 documentation_images:
