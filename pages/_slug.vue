@@ -1,17 +1,23 @@
 <template>
   <article>
-    <h1> {{ article.slug }} </h1>
-    <nuxt-content :document="article" />
+    <h3> {{ project.artist }} </h3>
+    <h1> {{ project.title }} </h1>
+    <h4>{{ project.subtitle }}</h4>
+    <nuxt-content :document="project" />
+    <MainImage :src=project.main_image></MainImage>
   </article>
 </template>
 
 <script>
-  export default {
-    async asyncData({ $content, params }) {
-      const article = await $content('', params.slug).fetch()
-      return {
-        article
-      }
-    }
-  }
+import MainImage from '../components/MainImage.vue'
+export default {
+  async asyncData({ $content, params }) {
+    const project = await $content("/projects", params.slug).fetch();
+    return {
+      project
+    };
+  },
+  components: { MainImage },
+  layout: "project-description"
+}
 </script>

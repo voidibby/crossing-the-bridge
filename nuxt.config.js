@@ -8,7 +8,7 @@ export default {
 			{ name: "viewport", content: "width=device-width, initial-scale=1" },
 			{
 				hid: "description",
-				name: "description",
+				name: "Crossing the Bridge ",
 				content:
 					"A web-based home for the Interface Cultures exhibition at the Ars Electronica Festival 2022",
 			},

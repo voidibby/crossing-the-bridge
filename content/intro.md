@@ -1,12 +1,14 @@
 ---
 title: intro
 artist: 
-format: 
-main-image:
-project-images:
-documentation-images:
+format: intro-text
+main_image:
+project_images:
+documentation_images:
 documentation-video:
 ---
+
+# Crossing the bridge
 
 Just as neighboring nations can develop separate cultures—in part due to forces of nature that separate them such as rivers and mountains, art and science often present themselves as divided into two different cultures and languages. Paradoxically, the construction of bridges, as well as other vehicles intended to facilitate communication between different cultures, were projects originally assigned to artist-scientists. But just as bridges can be built, they can also be destroyed. And indeed, up to this day it seems that there are still too many bridges to be built, as well as others more fragile that need to be reinforced. 
 
