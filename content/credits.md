@@ -36,7 +36,7 @@ format: credits
 - Gertrude Hörlesberger
 
 **Production/Design Team**
-- Dogus Karlik
+- Doğuş Karlık
 - Indiara Di Benedetto
 - Sara Koniarek
 - Juan Pablo Linares Ceballos

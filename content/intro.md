@@ -8,6 +8,8 @@ documentation_images:
 documentation-video:
 ---
 
+# CROSSING THE BRIDGE —<br>INTERFACE CULTURES<br>AT ARS ELECTRONICA 2022
+
 Just as neighboring nations can develop separate cultures—in part due to forces of nature that separate them such as rivers and mountains, art and science often present themselves as divided into two different cultures and languages. Paradoxically, the construction of bridges, as well as other vehicles intended to facilitate communication between different cultures, were projects originally assigned to artist-scientists. But just as bridges can be built, they can also be destroyed. And indeed, up to this day it seems that there are still too many bridges to be built, as well as others more fragile that need to be reinforced. 
 
 The linguistic divide between the arts and sciences began at the end of the Enlightenment era, at the end of the 19th century. It’s then when the term "science" began to be used in its narrowest sense, referring only to the "physical" or "natural" sciences. The Romantic movement of the time and its aesthetic perspective served as a counterpoint to utilitarianism and instrumental rationality through which the ideas of the Enlightenment gained theoretical legitimacy and influenced the modern industrial age. In fact, the paradigm of the arts and sciences divide has accompanied us until today, with the greatest danger of these disciplines undoubtedly lying in their lack of articulation. 
@@ -17,8 +19,8 @@ Within the artistic practices, for example, many of its most influential philoso
 Much of this work is carried out inside the universities. The academic world allows its artists to come into contact with a multitude of disciplines. To communicate effectively in these contexts, artists must learn the specific protocols and languages of these disciplines. The challenge, as Victoria Vesna states, is to do so without losing the intuitive and "wild" aspect inherent in artistic practices. This way, many contemporary artists have left aside the traditional processes of artistic production and distribution linked to conventional art markets, to make art based on the creation of their own aesthetic systems: organizing resources, media, fostering collaboration—both interdisciplinary and even interspecies, allowing all their participants to experience art in a new, questioning, responsible, sustainable, amplified and empowering way. For that reason, this year the Interface Cultures department leaves its own comfort zone of the Art University, and mentally, conceptually and physically crosses the bridge, bringing along a selection of its latest student projects right to the center of the JKU Campus. And what better occasion for this than the celebration of the 43th edition of the international Ars Electronica Festival in Linz, a festival with a long tradition of crossing disciplines by constantly exploring the impact of art and technology into daily life and society. We strongly believe that by engaging, discussing and communicating with international festival visitors new unexpected paths can be taken and new bridges and connections can be built.
 
 
-Interface Cultures Faculty: 
+**Interface Cultures Faculty:** 
 Christa Sommerer, Laurent Mignonneau, Manuela Naveau, Fabricio Lamoncha, Michaela Ortner
 
-Production / Design Team:
-Sara Koniarek, Juan Pablo Linares, Indiara Di Benedetto, Dogus Karlik
+**Production / Design Team:**
+Sara Koniarek, Juan Pablo Linares, Indiara Di Benedetto, Doğuş Karlık
