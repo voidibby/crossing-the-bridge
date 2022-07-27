@@ -24,8 +24,5 @@ window.onload = (event) => {
         } else {
             expandFont();
         }
-
-console.log(window.innerHeight - window.pageYOffset);
     });
-
 }
