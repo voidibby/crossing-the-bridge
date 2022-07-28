@@ -1,6 +1,6 @@
 ---
 title: Stones are Angels
-subtitle: 
+subtitle: (2022)
 artist: Daphne Xanthopoulou (GR)
 format: performance-project
 main_image: "04-daphne-01.jpg"

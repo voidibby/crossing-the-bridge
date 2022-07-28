@@ -1,6 +1,6 @@
 ---
 title: Externalization
-subtitle:
+subtitle: (2022)
 artist: Jelena Mönch (DE)
 format: exhibition-project
 main_image: "06-jelena-01.png"

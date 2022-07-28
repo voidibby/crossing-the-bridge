@@ -1,6 +1,6 @@
 ---
 title: Underwater Lilies
-subtitle: 
+subtitle: (2022)
 artist: 
 format: extra-project
 main_image: "11-kunsthalle-01.jpg"

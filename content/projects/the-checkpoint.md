@@ -1,6 +1,6 @@
 ---
 title: The Checkpoint
-subtitle: A storytelling device
+subtitle: A storytelling device (2022)
 artist: Katherine Romero M. (CO)
 format: exhibition-project
 main_image: "07-katherine-01.jpg"

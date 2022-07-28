@@ -1,6 +1,6 @@
 ---
 title: DANU
-subtitle: Transdisciplinary Performance
+subtitle: Transdisciplinary Performance (2022)
 artist: Various artists
 format: performance-project
 main_image: "22-smirna-01.jpg"
@@ -20,7 +20,7 @@ DANU is a result of a transdisciplinary workshop by the artist Smirna Kulenovic,
 - Alessia Rizzi
 - Lina Pulido Barragan
 - Sara Koniarek
-- Maria Dierneder
+- Maria Dirneder
 - Felix Chang
 - Dafni Xantholopolou
 

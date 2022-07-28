@@ -1,6 +1,6 @@
 ---
 title: PHOTOSYNTHETIC YOU
-subtitle: 
+subtitle: (2022)
 artist: Vanessa V(ozzo) (IT)
 format: workshop-project
 main_image: "23-vanessa-01.jpg"

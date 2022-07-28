@@ -18,6 +18,6 @@ Indiara Di Benedetto Installation, 2021-2022
 
 Concept, artistic research, visual design: Indiara Di Benedetto (IT)
 
-Sculpure design & production: Giulia Berrettoni (IT)
+Sculpture design & production: Giulia Berrettoni (IT)
 
 Project mentorship 2021: Alexia Achilleos

@@ -1,6 +1,6 @@
 ---
 title: Plántula
-subtitle:
+subtitle: (2022)
 artist: Linaá Pulido Barragán (CO)
 format: outdoor-project
 main_image: "13-linaa-01.jpg"

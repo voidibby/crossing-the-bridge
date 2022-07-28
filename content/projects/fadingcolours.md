@@ -1,6 +1,6 @@
 ---
 title: FadingColours
-subtitle: 
+subtitle: (2022)
 artist: Noor Stenfert Kroese (NL)
 format: exhibition-project
 main_image: "18-noor-01.jpg"

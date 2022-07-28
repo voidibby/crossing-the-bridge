@@ -1,6 +1,6 @@
 ---
 title: Soup Kitchen
-subtitle: a recipe of one bright day
+subtitle: a recipe of one bright day (2022)
 artist: Maria Konstantinova (RU)
 format: outdoor-project
 main_image: "15-mariakonstantinova-01.jpg"

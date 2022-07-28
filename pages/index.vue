@@ -210,7 +210,7 @@
         </svg>
       </div>
       <div class="section-content">
-        <h1>EXTRA-PROJECTS</h1>
+        <h1>SATELLITE PROJECTS</h1>
         <div class="project-list-element-container" v-for="project of extraProjects" :key="project.slug">
           <ProjectListEl :project="project" />
         </div>

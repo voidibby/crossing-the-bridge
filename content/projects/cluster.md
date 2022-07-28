@@ -1,6 +1,6 @@
 ---
 title: Cluster
-subtitle: AudioVisual Performance
+subtitle: AudioVisual Performance (2022)
 artist: Vahid Qaderi (IR) & Razieh Kooshki (IR)
 format: performance-project
 main_image: "20-raziehvahid-02.jpg"
