@@ -8,7 +8,7 @@ project_images:
 documentation_images:
 ---
 
-The awakening scent of freshly cut grass, lingering hugs with a pillow, a cup of tea...What were the ingredients of your morning?
+The awakening scent of freshly cut grass, lingering hugs with a pillow, a cup of tea... What were the ingredients of your morning?
 
 The "Soup Kitchen" is a playful experience created as an attempt to redefine the values of life in a ludic form.
 

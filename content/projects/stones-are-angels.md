@@ -18,12 +18,13 @@ for collective composition, we speculate on the language of stones, the unity of
 spiritual and material life, and our ability to communicate in anthropomorphic ways
 with the mineral we.
 
-##### credits:
--sculptures by Sheyda Ramhormozi
--visuals by Diana Bogucka
--original circuit design by Jonáš Gruska
--photograph by Błażej Kotowski
+#### credits:
+###### sculptures by Sheyda Ramhormozi
+###### visuals by Diana Bogucka
+###### original circuit design by Jonáš Gruska
+###### photograph by Błażej Kotowski
+<br>
 
-#bio-capital #machinelistening #digitalmateriality #mediageology #sonicagency
-#speculativeanimism #angelsinthemachine #environmentallistening
-#electromagneticfield #sonicinteraction #audiovisual performance #soundart
+###### #bio-capital #machinelistening #digitalmateriality #mediageology #sonicagency
+###### #speculativeanimism #angelsinthemachine #environmentallistening
+###### #electromagneticfield #sonicinteraction #audiovisual performance #soundart

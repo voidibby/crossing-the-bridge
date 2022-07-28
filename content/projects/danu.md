@@ -12,7 +12,7 @@ We are all Bodies of Water: Re-enchanting the Vulva, re-spiriting the Danube, in
  
 DANU is a result of a transdisciplinary workshop by the artist Smirna Kulenovic, materialized as a collaboration between MA students of the Dance Institute (ABPU) and Interface Cultures (KUNI Linz). During the Summer Semester ´22, each student was guided through their personal and shared artistic research in Hydrocommons of wondrous difference, in which we all circulate, flowing into and out of each other.
 
-**Artists:**
+###### Artists:
 - Alejandra Benet Garcia
 - Laura Gagliardi
 - Lucia Mauri
@@ -23,8 +23,10 @@ DANU is a result of a transdisciplinary workshop by the artist Smirna Kulenovic,
 - Maria Dirneder
 - Felix Chang
 - Dafni Xantholopolou
+<br>
+<br>
 
-**Artistic Researchers / Advisors:**
+###### Artistic Researchers/Advisors:
 - Smirna Kulenovic
 - Damian Cortes-Alberti
 - Julia Moser

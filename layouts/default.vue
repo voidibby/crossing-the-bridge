@@ -3,6 +3,10 @@
 </template>
 
 <style>
+#__layout {
+  min-height: 100vh;
+}
+
 :root {
   --main: #F6FA36;
   --black: #000000;
@@ -39,6 +43,11 @@ h6 {
   padding: 2px 10px 2px 10px;
 }
 
+h6 {
+  line-height: 1em;
+  margin: 0;
+}
+
 p {
   background: var(--main);
   padding: 2px 10px 2px 10px;
@@ -48,6 +57,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 2px 10px 2px 10px;
+  display: inline-block;
 }
 
 li {
@@ -178,6 +188,7 @@ footer {
 main {
   position: relative;
   width: 100%;
+  min-height: 100vh;
   background-image: url(assets/images/00-mainbackgroundtexture-01.png);
   background-size: 150% auto;
   background-position-x: center;
@@ -254,6 +265,45 @@ main {
 .intro-text h1 {
   padding: 0;
   margin: 0;
+}
+
+.project-container {
+padding: 13% 0 7vh 0;
+}
+
+.section-backarrow {
+   position: sticky;
+  top: 0;
+  padding: 25% 15% 8vh 15%;
+  width: calc(10vw - 1%);
+}
+
+.project-content {
+  padding-top: 15%;
+}
+
+.project-title h1 {
+  font-size: calc(23px + (80 - 23) * ((100vw - 300px) / (1600 - 300)));
+margin: 0;
+line-height: 1em;
+}
+
+.project-title h3 {
+margin: 0;
+padding-bottom: 0;
+}
+
+.main_image {
+  width: 30%;
+  max-width: 600px;
+  padding-top: 2%;
+}
+
+.project-text p {
+  column-count: 2;
+  column-gap: 40px;
+margin-right: 15%;
+word-break: break-word;
 }
 
 /* Extra small devices (phones, 600px and down) */

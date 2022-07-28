@@ -14,10 +14,8 @@ The project “Future Memories of Deep Water” explores how algorithms can be u
 
 Built upon experimental speculation, “Future Memories of Deep Water” calls for the protection of threatened marine ecosystems and aims to create awareness and encourage preservation of cultural heritage.
 
-Indiara Di Benedetto Installation, 2021-2022
+###### Concept, artistic research, visual design: Indiara Di Benedetto (IT)
 
-Concept, artistic research, visual design: Indiara Di Benedetto (IT)
+###### Sculpture design & production: Giulia Berrettoni (IT)
 
-Sculpture design & production: Giulia Berrettoni (IT)
-
-Project mentorship 2021: Alexia Achilleos
+###### Project mentorship 2021: Alexia Achilleos
