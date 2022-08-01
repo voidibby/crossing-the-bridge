@@ -1,6 +1,14 @@
 export default {
 	modules: ['@nuxt/content'],
 
+	router: {
+		base: '/blog/crossing-the-bridge/'
+	},
+
+	css: [
+		"~layouts/global.css",
+	],
+
 	head: {
 		title: "CROSSNGTHBRDG",
 		meta: [
@@ -14,7 +22,6 @@ export default {
 			},
 		],
 		link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
-		script: [{src: "/script.js"}]
 	},
 
 	components: true,
