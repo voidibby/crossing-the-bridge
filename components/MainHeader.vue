@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div class="main-background parallax">
-    </div>
+    <div class="main-background parallax"></div>
+    <div class="main-background-blobs parallax-one"></div>
     <div class="section-container">
       <div class="section-title">
         <svg id="title-svg" class="title-svg-expanded" viewBox="0 0 376 1242" xmlns="http://www.w3.org/2000/svg">
@@ -104,9 +104,14 @@ export default {
 
       window.addEventListener("scroll", function () {
         const parallax = document.getElementsByClassName("parallax");
+        const parallaxOne = document.getElementsByClassName("parallax-one");
         let offset = window.pageYOffset;
         for (let i = 0; i < parallax.length; i++) {
           parallax[i].style.backgroundPositionY = offset * 0.4 + "px";
+        }
+
+        for (let i = 0; i < parallaxOne.length; i++) {
+          parallaxOne[i].style.backgroundPositionY = offset * -0.5 + "px";
         }
 
         if (window.pageYOffset > 0) {

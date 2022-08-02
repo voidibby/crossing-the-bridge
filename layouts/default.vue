@@ -182,7 +182,16 @@ footer {
   background-size: 150% auto;
   background-position-x: center;
   background-color: black;
+}
 
+.main-background-blobs {
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  background-image: url(assets/images/00-mainbackgroundtexture-03.png);
+  background-size: 110% auto;
+  background-position-x: center;
 }
 
 main {
@@ -251,11 +260,11 @@ main {
   bottom: 2vh;
   right: 2vh;
   display: flex;
-	flex-direction: column;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-items: flex-end;
-	align-content: stretch;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-end;
+  align-content: stretch;
 }
 
 .exhibition-subtitle h2 {
@@ -284,11 +293,11 @@ main {
 }
 
 .project-container {
-padding: 13% 0 7vh 0;
+  padding: 13% 0 7vh 0;
 }
 
 .section-backarrow {
-   position: sticky;
+  position: sticky;
   top: 0;
   padding: 25% 15% 8vh 15%;
   width: calc(8.5vw - 1%);
@@ -302,13 +311,13 @@ padding: 13% 0 7vh 0;
 
 .project-title h1 {
   font-size: calc(23px + (80 - 23) * ((100vw - 300px) / (1600 - 300)));
-margin: 0;
-line-height: 1em;
+  margin: 0;
+  line-height: 1em;
 }
 
 .project-title h3 {
-margin: 0;
-padding-bottom: 0;
+  margin: 0;
+  padding-bottom: 0;
 }
 
 .main_image {
@@ -328,8 +337,8 @@ padding-bottom: 0;
   /*column-count: 2;*/
   margin-top: 0;
   column-gap: 40px;
-margin-right: 15%;
-word-break: break-word;
+  margin-right: 15%;
+  word-break: break-word;
 }
 
 .credits-container {
@@ -366,7 +375,7 @@ word-break: break-word;
     float: unset;
   }
 
-  .project-text  {
+  .project-text {
     width: 100%;
     float: unset;
   }
@@ -418,12 +427,12 @@ word-break: break-word;
     display: none;
   }
 
-    .main_image {
+  .main_image {
     width: 84%;
     float: unset;
   }
 
-  .project-text  {
+  .project-text {
     width: 100%;
     float: unset;
   }
@@ -470,7 +479,7 @@ word-break: break-word;
     float: left;
   }
 
-  .project-text  {
+  .project-text {
     width: 69%;
     float: left;
     padding-left: 40px;
