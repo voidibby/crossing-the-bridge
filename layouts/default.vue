@@ -363,6 +363,7 @@ main {
   .intro-text {
     column-count: 1;
     margin: 20px;
+    margin-left: 0;
   }
 
   .project-list-element-container {
