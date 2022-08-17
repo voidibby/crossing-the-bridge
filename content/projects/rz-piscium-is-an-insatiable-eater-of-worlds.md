@@ -1,6 +1,6 @@
 ---
 title: RZ PISCIUM IS AN INSATIABLE EATER OF WORLDS
-subtitle: Video installation, 2019-2022 'RZ
+subtitle: Interactive video installation, 2019-2022
 artist: Maria Orciuoli (IT)
 format: exhibition-project
 main_image: "16-mariaorciuoli-01.jpg"
