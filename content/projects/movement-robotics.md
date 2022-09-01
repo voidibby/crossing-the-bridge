@@ -22,3 +22,5 @@ The workshop takes place in an interactive robotic stage of around 30 motorized 
 - Aizhan Saganayeva
 - Alejandra Benet Garcia
 - Tomomi Watanabe
+- Behiye Erdemir 
+- Maria Dirneder
